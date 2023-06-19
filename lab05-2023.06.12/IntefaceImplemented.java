@@ -1,3 +1,4 @@
+package com.mycompany.practical5;
 public class IntefaceImplemented implements MyFirstInterface {
     
     public void display(){
